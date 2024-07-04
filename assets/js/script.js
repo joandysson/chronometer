@@ -1,5 +1,5 @@
 let timerInterval;
-let timeInSeconds = 50;
+let timeInSeconds = 0;
 
 const timerDisplay = document.querySelector('.timer-display');
 const startButton = document.getElementById('start-btn');
